@@ -1,0 +1,161 @@
+id,country,international_agreements
+1,Austria,European Union
+2,Belgium,European Union
+3,Bulgaria,European Union
+4,Croatia,European Union
+5,Cyprus,European Union
+6,Czech Republic,European Union
+7,Denmark,European Union
+8,Estonia,European Union
+9,Finland,European Union
+10,France,European Union
+11,Germany,European Union
+12,Greece,European Union
+13,Hungary,European Union
+14,Ireland,European Union
+15,Italy,European Union
+16,Latvia,European Union
+17,Lithuania,European Union
+18,Luxembourg,European Union
+19,Malta,European Union
+20,Netherlands,European Union
+21,Poland,European Union
+22,Portugal,European Union
+23,Romania,European Union
+24,Slovakia,European Union
+25,Slovenia,European Union
+26,Spain,European Union
+27,Sweden,European Union
+28,United Kingdom,European Union
+29,Albania,Council of Europe
+30,Andorra,Council of Europe
+31,Armenia,Council of Europe
+32,Austria,Council of Europe
+33,Azerbaijan,Council of Europe
+34,Belgium,Council of Europe
+35,Bosnia and Herzegovina,Council of Europe
+36,Bulgaria,Council of Europe
+37,Croatia,Council of Europe
+38,Cyprus,Council of Europe
+39,Czech Republic,Council of Europe
+40,Denmark,Council of Europe
+41,Estonia,Council of Europe
+42,Finland,Council of Europe
+43,France,Council of Europe
+44,Georgia,Council of Europe
+45,Germany,Council of Europe
+46,Greece,Council of Europe
+47,Hungary,Council of Europe
+48,Iceland,Council of Europe
+49,Ireland,Council of Europe
+50,Italy,Council of Europe
+51,Latvia,Council of Europe
+52,Liechtenstein,Council of Europe
+53,Lithuania,Council of Europe
+54,Luxembourg,Council of Europe
+55,Malta,Council of Europe
+56,Monaco,Council of Europe
+57,Montenegro,Council of Europe
+58,Netherlands,Council of Europe
+59,Norway,Council of Europe
+60,Poland,Council of Europe
+61,Portugal,Council of Europe
+62,Republic of Moldova,Council of Europe
+63,Romania,Council of Europe
+64,Russian Federation,Council of Europe
+65,San Marino,Council of Europe
+66,Serbia,Council of Europe
+67,Slovak Republic,Council of Europe
+68,Slovenia,Council of Europe
+69,Spain,Council of Europe
+70,Sweden,Council of Europe
+71,Switzerland,Council of Europe
+72,“The former Yugoslav Republic of Macedonia”,Council of Europe
+73,Turkey,Council of Europe
+74,Ukraine,Council of Europe
+75,United Kingdom,Council of Europe
+76,Argentina,Mercosul
+77,Bolivia,Mercosul
+78,Brazil,Mercosul
+79,Paraguay,Mercosul
+80,Uruguay,Mercosul
+81,Venezuela,Mercosul
+82,Australia,Trans-Pacific-Partnership
+83,Brunei,Trans-Pacific-Partnership
+84,Canada,Trans-Pacific-Partnership
+85,Chile,Trans-Pacific-Partnership
+86,Japan,Trans-Pacific-Partnership
+87,Malaysia,Trans-Pacific-Partnership
+88,Mexico,Trans-Pacific-Partnership
+89,New Zealand,Trans-Pacific-Partnership
+90,Peru,Trans-Pacific-Partnership
+91,Singapore,Trans-Pacific-Partnership
+92,United States,Trans-Pacific-Partnership
+93,Vietnam,Trans-Pacific-Partnership
+94,Antigua and Barbuda,CARICOM
+95,Bahamas,CARICOM
+96,Barbados,CARICOM
+97,Belize,CARICOM
+98,Dominica,CARICOM
+99,Grenada,CARICOM
+100,Guyana,CARICOM
+101,Haiti,CARICOM
+102,Jamaica,CARICOM
+103,Montserrat,CARICOM
+104,Saint Lucia,CARICOM
+105,St Kitts and Nevis,CARICOM
+106,St Vincent and the Grenadines,CARICOM
+107,Suriname,CARICOM
+108,Trinidad and Tobago,CARICOM
+109,Argentina,OAS
+110,Bolivia,OAS
+111,Brazil,OAS
+112,Chile,OAS
+113,Colombia,OAS
+114,Costa Rica,OAS
+115,Cuba,OAS
+116,Dominican Republic,OAS
+117,Ecuador,OAS
+118,El Salvador,OAS
+119,Guatemala,OAS
+120,Haiti,OAS
+121,Honduras,OAS
+122,Nicaragua,OAS
+123,Panama,OAS
+124,Paraguay,OAS
+125,Peru,OAS
+126,United States of America,OAS
+127,Uruguay,OAS
+128,Venezuela,OAS
+129,Barbados,OAS
+130,Trinidad and Tobago,OAS
+131,Jamaica,OAS
+132,Grenada,OAS
+133,Suriname,OAS
+134,Dominica,OAS
+135,Saint Lucia,OAS
+136,Antigua and Barbuda,OAS
+137,Saint Vincent and the Grenadines,OAS
+138,Bahamas,OAS
+139,Saint Kitts and Nevis,OAS
+140,Canada,OAS
+141,Belize,OAS
+142,Guyana,OAS
+143,Guatemala,SICA
+144,El Salvador ,SICA
+145,Honduras,SICA
+146,Nicaragua,SICA
+147,Costa Rica ,SICA
+148,Panama,SICA
+149,Belize,SICA
+150,Dominican Republic,SICA
+151,Canada,NAFTA
+152,Mexico,NAFTA
+153,United States,NAFTA
+154,United States,CAFTA-DR
+155,Guatemala,CAFTA-DR
+156,El Salvador ,CAFTA-DR
+157,Honduras,CAFTA-DR
+158,Nicaragua,CAFTA-DR
+159,Costa Rica ,CAFTA-DR
+160,Dominican Republic,CAFTA-DR
